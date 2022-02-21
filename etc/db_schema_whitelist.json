@@ -1,0 +1,12 @@
+{
+    "quote": {
+        "column": {
+            "seller_code": true
+        }
+    },
+    "sales_order": {
+        "column": {
+            "seller_code": true
+        }
+    }
+}
